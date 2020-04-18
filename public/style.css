@@ -17,8 +17,8 @@ body {
 }
 
 nav {
-  background-color: #5793fd;
-  color: #ffffff;
+  background-color:#424242 ;
+  color:white;
   height: 80px;
   padding: 10px;
   line-height: 3;
@@ -38,6 +38,7 @@ header {
   padding-top: 80px;
   text-align: center;
   font-size: 1.5rem;
+  color: white;
 }
 
 header h1 {
@@ -92,11 +93,11 @@ input {
   border: 1px solid #aaa;
   width: 100%;
   padding: 10px;
-  background: linear-gradient(to bottom, #ffffff 0%, #e5e5e5 100%);
+  background: linear-gradient(to bottom, #fff3e0 0%, #e5e5e5 100%);
 }
 
 .wrapper {
-  background-color: #f2f8ff;
+  background: url(images/wod.jpg) ;
   padding-bottom: 100px;
 }
 
@@ -104,6 +105,7 @@ input {
 .m-auto {
   margin: 0 auto;
   width: 500px;
+  background: url(images/wod2.jpg);
 }
 
 form .workout-type,
@@ -194,6 +196,7 @@ form label {
   width: 150px;
   margin-top: 0.7rem;
 }
+
 
 form > button {
   float: right;

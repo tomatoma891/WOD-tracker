@@ -1,4 +1,4 @@
-let mongoose = require("mongoose");
+var mongoose = require("mongoose");
 let db = require("../models");
 
 mongoose.connect("mongodb://localhost/workout", {
