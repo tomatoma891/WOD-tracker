@@ -10,8 +10,9 @@ $ node server.js from CLI or use deployed heroku app link
 https://sheltered-brushlands-11800.herokuapp.com/
 
 ## Visuals:
-
-
+![](/public/images/main.png)
+![](/public/images/wod.png)
+![](/public/images/dashboard.png)
 
 
 ## What I've learned: 
